@@ -8,7 +8,7 @@ import notificationSystemInterfaces.Subject;
 /*
  * Author: Aamin Lakhani
  * 
- *  A MessageRoom that is actuall the subject. Any change to this class variable is broadcasted to its observers
+ *  A MessageRoom that is actually the subject. Any change to this class variable is broadcasted to its observers
  */
 public class MessageRoom implements Subject{
 
